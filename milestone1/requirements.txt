@@ -1,0 +1,30 @@
+# Core LangChain
+langchain==0.1.0
+langchain-community==0.0.10
+
+# PDF Processing
+pypdf==3.17.4
+pymupdf==1.23.8
+
+# Word Documents
+python-docx==1.1.0
+
+# Excel/CSV
+pandas==2.1.4
+openpyxl==3.1.2
+
+# Web Scraping
+beautifulsoup4==4.12.2
+requests==2.31.0
+selenium==4.15.2
+lxml==4.9.3
+
+# HTML Processing
+html2text==2020.1.16
+
+# Text Processing
+sentence-transformers==2.2.2
+
+# Utilities
+python-dotenv==1.0.0
+tqdm==4.66.1
